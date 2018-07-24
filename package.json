@@ -2,6 +2,6 @@
   "name": "bash_dockerutil",
   "version": "1.0.0",
   "description": "Docker utility functions",
-  "scripts": [ "term" ],
+  "scripts": [ "dockerutil" ],
   "install": "make install"
 }
